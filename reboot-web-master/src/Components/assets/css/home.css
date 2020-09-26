@@ -1,0 +1,12 @@
+@import "./var.css";
+.cha {
+  position: fixed;
+  right: 10vh;
+  bottom: 10vh;
+}
+.rsc {
+  position: fixed !important;
+  right: 20vh !important;
+  bottom: 20vh !important;
+  z-index: 999;
+}
